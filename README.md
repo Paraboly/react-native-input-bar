@@ -55,17 +55,6 @@ import InputBar from "@paraboly/react-native-input-bar";
 
 # Configuration - Props
 
-primaryIconName,
-primaryIconType,
-primaryIconSize,
-primaryIconColor,
-primaryIconOnPress,
-secondaryIconName,
-secondaryIconType,
-secondaryIconSize,
-secondaryIconColor,
-secondaryIconOnPress
-
 | Property             |     Type      |       Default       | Description                                        |
 | -------------------- | :-----------: | :-----------------: | -------------------------------------------------- |
 | width                | string/number | 90% of screen width | change the InputBar's width                        |
