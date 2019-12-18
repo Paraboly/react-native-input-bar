@@ -1,13 +1,6 @@
 import React from "react";
-import {
-  SafeAreaView,
-  StyleSheet,
-  ScrollView,
-  View,
-  Text,
-  StatusBar
-} from "react-native";
-import InputBar from "./lib/src/InputBar";
+import { SafeAreaView, StatusBar } from "react-native";
+import InputBar from "@paraboly/react-native-input-bar";
 
 const App = () => {
   return (

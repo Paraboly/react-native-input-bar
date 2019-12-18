@@ -39,6 +39,8 @@ npm i @paraboly/react-native-input-bar
 
 # Usage
 
+### InputBar should stay at the bottom therefore, please do not forget to set `flex: 1` on your main container. Example is available for the real usage.
+
 ## Import
 
 ```js
