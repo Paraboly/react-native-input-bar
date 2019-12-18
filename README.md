@@ -60,6 +60,7 @@ import InputBar from "@paraboly/react-native-input-bar";
 | width                | string/number | 90% of screen width | change the InputBar's width                        |
 | height               | string/number |         50          | change the InputBar's height                       |
 | bottom               | string/number |         24          | change the InputBar's bottom position              |
+| onChangeText         |   function    |      undefined      | handle onChangeText function                       |
 | backgroundColor      |     color     |       #fdfdfd       | set your own color for InputBar's background color |
 | textColor            |     color     |       #9da1ab       | set your own color for TextInput's text color      |
 | shadowColor          |     color     |       #757575       | set your own color for TextInput's shadow color    |
