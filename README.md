@@ -110,6 +110,7 @@ spinnerVisibility prop is available for controlling the Spinner :) Furthermore, 
 ## Roadmap
 
 - [x] ~~LICENSE~~
+- [x] ~~CHANGELOG~~
 - [ ] Optional Spinkit for secondary icon
 - [ ] Better Example
 
