@@ -10,11 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@paraboly/react-native-input-bar": "0.0.4",
+    "@paraboly/react-native-input-bar": "0.0.5",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-androw": "0.0.34",
     "react-native-dynamic-vector-icons": "^0.2.1",
+    "react-native-spinkit": "^1.5.0",
     "react-native-vector-icons": "^6.6.0"
   },
   "devDependencies": {

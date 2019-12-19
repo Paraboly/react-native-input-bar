@@ -11,7 +11,7 @@ const App = () => {
           flex: 1
         }}
       >
-        <InputBar />
+        <InputBar spinnerVisibility={false} />
       </SafeAreaView>
     </>
   );

@@ -32,10 +32,13 @@ npm i @paraboly/react-native-input-bar
 ```js
 "react": ">= 16.x.x",
 "react-native": ">= 0.55.x",
+"react-native-spinkit": ">= 1.5.0",
 "react-native-androw": ">= 0.0.34",
 "react-native-vector-icons": ">= 6.6.0",
 "react-native-dynamic-vector-icons": ">= 0.2.1"
 ```
+
+### Note: Do not for get to `pod install` for installing properly SpinKit
 
 # Usage
 
@@ -79,10 +82,16 @@ import InputBar from "@paraboly/react-native-input-bar";
 | secondaryIconColor   |    string     |       #9da1ab       | change the secondary icon's color                  |
 | secondaryIconSize    |    number     |         21          | change the secondary icon's size                   |
 | secondaryIconOnPress |   function    |      undefined      | set a function when secondary icon is on pressed   |
+| spinnerVisibility    |    boolean    |        false        | make the spinner visible instead of primarty icon  |
+| spinnerType          |    string     |   FadingCircleAlt   | change the spinner type                            |
+| spinnerSize          |    number     |         20          | change the spinner number                          |
+| spinnerColor         |     color     |       #9da1ab       | change the spinner color                           |
+| spinnerStyle         |     style     |      undefined      | set your own style for spinner                     |
 
 ## Roadmap
 
 - [x] ~~LICENSE~~
+- [ ] Optional Spinkit for secondary icon
 - [ ] Better Example
 
 ## Credits
