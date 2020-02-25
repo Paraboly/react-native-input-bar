@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.0](https://github.com/Paraboly/react-native-input-bar/releases/tag/0.1.0) (2020-02-25)
+
+Auto-grow feature is here 🥳
+
 ## [0.0.5](https://github.com/Paraboly/react-native-input-bar/tree/0.0.5) (2019-12-19)
 
 [Full Changelog](https://github.com/Paraboly/react-native-input-bar/compare/0.0.4...0.0.5)
