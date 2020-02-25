@@ -11,7 +11,12 @@ const App = () => {
           flex: 1
         }}
       >
-        <InputBar spinnerVisibility={false} />
+        <InputBar
+          multiline
+          height={null}
+          minHeight={50}
+          spinnerVisibility={false}
+        />
       </SafeAreaView>
     </>
   );
