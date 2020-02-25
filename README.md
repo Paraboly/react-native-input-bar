@@ -52,8 +52,16 @@ import InputBar from "@paraboly/react-native-input-bar";
 
 ## Usage
 
-```js
+```jsx
 <InputBar />
+```
+
+## Auto-Grow InputBar Usage
+
+All you need to do is set the `multiline` and set the `height` prop as `null`.
+
+```jsx
+<InputBar multiline height={null} minHeight={50} />
 ```
 
 # Configuration - Props
@@ -114,6 +122,7 @@ spinnerVisibility prop is available for controlling the Spinner :) Furthermore, 
 
 - [x] ~~LICENSE~~
 - [x] ~~CHANGELOG~~
+- [x] ~~Auto-Grow Feature~~
 - [ ] Optional Spinkit for secondary icon
 - [ ] Better Example
 
