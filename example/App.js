@@ -1,6 +1,7 @@
 import React from "react";
-import { SafeAreaView, StatusBar } from "react-native";
-import InputBar from "@paraboly/react-native-input-bar";
+import { SafeAreaView, StatusBar, View } from "react-native";
+// import InputBar from "@paraboly/react-native-input-bar";
+import InputBar from "./lib/src/InputBar";
 
 const App = () => {
   return (
@@ -11,12 +12,22 @@ const App = () => {
           flex: 1
         }}
       >
-        <InputBar
-          multiline
-          height={null}
-          minHeight={50}
-          spinnerVisibility={false}
-        />
+        <View
+          style={{
+            flex: 1,
+            marginBottom: 32,
+            alignItems: "center",
+            justifyContent: "flex-end"
+          }}
+        >
+          <InputBar
+          // disableSecondaryIcon
+          // multiline
+          // height={null}
+          // minHeight={50}
+          // spinnerVisibility={true}
+          />
+        </View>
       </SafeAreaView>
     </>
   );
