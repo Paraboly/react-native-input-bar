@@ -1,6 +1,6 @@
 {
   "name": "@paraboly/react-native-input-bar",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fully customizable, beautifully designed Input Bar for React Native",
   "keywords": [
     "input",
@@ -19,7 +19,7 @@
   ],
   "homepage": "https://www.freakycoder.com",
   "bugs": "https://github.com/Paraboly/react-native-input-bar/issues",
-  "main": "./lib/src/InputBar.js",
+  "main": "./build/dist/InputBar.js",
   "repository": "git@github.com:Paraboly/react-native-input-bar.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
