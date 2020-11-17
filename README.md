@@ -38,7 +38,7 @@ npm i @paraboly/react-native-input-bar
 "react-native-dynamic-vector-icons": ">= 0.2.1"
 ```
 
-### Note: Do not for get to `pod install` for installing properly SpinKit
+### Note: Do not forget to `pod install` for installing properly SpinKit
 
 # Usage
 
