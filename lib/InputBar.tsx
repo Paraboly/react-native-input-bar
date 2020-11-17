@@ -6,6 +6,8 @@ import {
   StyleProp,
   ViewStyle,
   TextInput,
+  TextInputProps,
+  TextInputAndroidProps,
 } from "react-native";
 import Androw from "react-native-androw";
 import Spinner from "react-native-spinkit";
@@ -25,11 +27,11 @@ export interface ISource {
   source: string | { uri: string };
 }
 
-export interface IInputBarProps {
+export interface IInputBarProps extends TextInputProps, TextInputAndroidProps {
   style: CustomStyleProp;
   width?: number;
   height?: number;
-  value?: string | number;
+  value?: string;
   borderRadius?: number;
   minHeight?: number;
   maxHeight?: number;
@@ -146,6 +148,7 @@ class InputBar extends React.Component<IInputBarProps, IState> {
         ]}
       >
         <TextInput
+          {...this.props}
           value={value}
           multiline
           placeholder={placeholder}

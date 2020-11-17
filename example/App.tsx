@@ -1,5 +1,5 @@
 import React from 'react';
-import {SafeAreaView, StatusBar} from 'react-native';
+import {Alert, SafeAreaView, StatusBar} from 'react-native';
 import InputBar from './build/dist/InputBar';
 
 const App = () => {
