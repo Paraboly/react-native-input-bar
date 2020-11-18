@@ -1,16 +1,23 @@
-import React from 'react';
-import {Alert, SafeAreaView, StatusBar} from 'react-native';
-import InputBar from './build/dist/InputBar';
+import { StatusBar } from "expo-status-bar";
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
+import InputBar, { CustomStyleProp } from "./lib/InputBar";
 
-const App = () => {
+export default function App() {
   return (
-    <>
-      <StatusBar barStyle="dark-content" />
-      <SafeAreaView style={{flex: 1}}>
-        <InputBar multiline height={null} />
-      </SafeAreaView>
-    </>
+    <View style={styles.container}>
+      <Text>Open up App.tsx to start working on your app!</Text>
+      <StatusBar style="auto" />
+      <InputBar spinnerVisibility multiline height={null} />
+    </View>
   );
-};
+}
 
-export default App;
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#fff",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+});
