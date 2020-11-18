@@ -1,0 +1,311 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/tslib/tslib.d.ts": {
+        "version": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "signature": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/globals.d.ts": {
+        "version": "a4a0dff9c7f59d357b6ec45c22cdab883c628748a6947426a0611a13a27c950e",
+        "signature": "a4a0dff9c7f59d357b6ec45c22cdab883c628748a6947426a0611a13a27c950e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "signature": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "signature": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/devtools.d.ts": {
+        "version": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "signature": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/launchscreen.d.ts": {
+        "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/csstype/index.d.ts": {
+        "version": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c",
+        "signature": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react/index.d.ts": {
+        "version": "416e5d547a57e2fc9bac063ff167eee2c34aad14296acf9688eaa24fee981e05",
+        "signature": "416e5d547a57e2fc9bac063ff167eee2c34aad14296acf9688eaa24fee981e05",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/index.d.ts": {
+        "version": "65197024b8922e7fb43eaf2293e88c965f5c8b96a060db97c2e93ef3ece8442a",
+        "signature": "65197024b8922e7fb43eaf2293e88c965f5c8b96a060db97c2e93ef3ece8442a",
+        "affectsGlobalScope": true
+      },
+      "../../lib/inputbar.style.ts": {
+        "version": "9bce5eb84fd5813461884c62bd3210b5e993d6b6b4f4b9ab28ad8040f8532b1f",
+        "signature": "82db0ca61e9662a4b90de4826ae4db201456ffa12864a8a83314f25abf3bc0a8",
+        "affectsGlobalScope": false
+      },
+      "../../lib/inputbar.tsx": {
+        "version": "b263d77664d3e1537b0542609dca1bea4c8c870b31dd5100902b048945a79012",
+        "signature": "a0c36c6f0e4cf0ab2d1ffc609922f16430f2015e19aff169c0f73a76bd8b254d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/json-schema/index.d.ts": {
+        "version": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "signature": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 99,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "allowJs": true,
+      "jsx": 3,
+      "noImplicitAny": false,
+      "incremental": true,
+      "isolatedModules": true,
+      "strict": true,
+      "moduleResolution": 2,
+      "skipLibCheck": true,
+      "baseUrl": "../..",
+      "outDir": "./",
+      "noEmitHelpers": true,
+      "importHelpers": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "declaration": true,
+      "sourceMap": true,
+      "configFilePath": "../../tsconfig.json"
+    },
+    "referencedMap": {
+      "../../lib/inputbar.style.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/inputbar.tsx": [
+        "../../lib/inputbar.style.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/devtools.d.ts": [
+        "../../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../../node_modules/@types/react-native/index.d.ts": [
+        "../../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../../node_modules/@types/react-native/devtools.d.ts",
+        "../../node_modules/@types/react-native/globals.d.ts",
+        "../../node_modules/@types/react-native/launchscreen.d.ts",
+        "../../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/csstype/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../lib/inputbar.style.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/inputbar.tsx": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/devtools.d.ts": [
+        "../../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../../node_modules/@types/react-native/index.d.ts": [
+        "../../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../../node_modules/@types/react-native/devtools.d.ts",
+        "../../node_modules/@types/react-native/globals.d.ts",
+        "../../node_modules/@types/react-native/launchscreen.d.ts",
+        "../../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/csstype/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../lib/inputbar.style.ts",
+      [
+        "../../lib/inputbar.tsx",
+        [
+          {
+            "file": "../../lib/inputbar.tsx",
+            "start": 200,
+            "length": 31,
+            "messageText": "Cannot find module 'react-native-animated-spinkit' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../../lib/inputbar.tsx",
+            "start": 258,
+            "length": 38,
+            "messageText": "Cannot find module '@freakycoder/react-native-bounceable' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../../lib/inputbar.tsx",
+            "start": 3424,
+            "length": 6,
+            "code": 2345,
+            "category": 1,
+            "messageText": {
+              "messageText": "Argument of type 'number | null' is not assignable to parameter of type 'number'.",
+              "category": 1,
+              "code": 2345,
+              "next": [
+                {
+                  "messageText": "Type 'null' is not assignable to type 'number'.",
+                  "category": 1,
+                  "code": 2322
+                }
+              ]
+            }
+          },
+          {
+            "file": "../../lib/inputbar.tsx",
+            "start": 3865,
+            "length": 6,
+            "code": 2345,
+            "category": 1,
+            "messageText": {
+              "messageText": "Argument of type 'number | null' is not assignable to parameter of type 'number'.",
+              "category": 1,
+              "code": 2345,
+              "next": [
+                {
+                  "messageText": "Type 'null' is not assignable to type 'number'.",
+                  "category": 1,
+                  "code": 2322
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../../node_modules/@types/json-schema/index.d.ts",
+      "../../node_modules/@types/parse-json/index.d.ts",
+      "../../node_modules/@types/prop-types/index.d.ts",
+      "../../node_modules/@types/react-native/batchedbridge.d.ts",
+      "../../node_modules/@types/react-native/devtools.d.ts",
+      "../../node_modules/@types/react-native/globals.d.ts",
+      "../../node_modules/@types/react-native/index.d.ts",
+      "../../node_modules/@types/react-native/launchscreen.d.ts",
+      "../../node_modules/@types/react-native/legacy-properties.d.ts",
+      "../../node_modules/@types/react/global.d.ts",
+      "../../node_modules/@types/react/index.d.ts",
+      "../../node_modules/csstype/index.d.ts",
+      "../../node_modules/tslib/tslib.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es5.d.ts"
+    ]
+  },
+  "version": "3.9.7"
+}
